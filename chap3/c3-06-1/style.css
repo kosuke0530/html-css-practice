@@ -1,0 +1,12 @@
+@charset "UTF-8";
+body {
+    background-color: #fffeee;
+}
+h1 {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+p {
+    font-size: 20px;
+}

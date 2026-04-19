@@ -1,0 +1,9 @@
+p {
+    border-color: tomato;
+    border-style: solid;
+}
+
+div {
+    border-color: tan #0bd tomato #0bd;
+    border-style: solid;
+}
