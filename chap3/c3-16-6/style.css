@@ -1,0 +1,12 @@
+.item {
+    background: #0db;
+    color: #fff;
+    margin: 10px;
+    padding: 10px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}

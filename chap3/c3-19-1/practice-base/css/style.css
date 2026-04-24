@@ -1,0 +1,12 @@
+.box {
+    background-color: #aef;
+    width: 400px;
+    padding: 2rem;
+    margin: 1rem;
+
+}
+
+.cotainer {
+    display: flex;
+    justify-content: center;
+}
