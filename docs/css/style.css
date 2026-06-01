@@ -356,7 +356,8 @@ iframe {
         padding-left: 2rem;
     }
     .location-map {
-        width: 64%;
+        width: 60%;
+        height: 50%;
     }
     .email {
         margin-bottom: 4rem;
